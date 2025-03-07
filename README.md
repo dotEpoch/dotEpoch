@@ -1,12 +1,5 @@
-
-<a>
-  <img height=70 align="left" src="https://github.com/user-attachments/assets/976cb8c8-6d69-4526-b719-3e5fbd3c573a" />
-</a>
-
+                                            [this is where i would put a banner if had one]
   # Initializing... 
-
-
-
 
 
 <a href="https://github.com/dotEpoch/github-readme-stats">
@@ -17,12 +10,21 @@
 </body>  
 <p>  </p>
 
-♠. I’m currently working on: International Physics Tournament 🧲  
-♦. I’m currently learning: Rust 🦀  
-♣. Plans: __**Monster Hunter Wilds.**__ 🐉  
-♥. Interests: Ethical scientific development, history, geography (impressive worldle streak), sociology, anthropology and anything else computers have to offer 🦭 
+- 🧲 _Currently working on_: International Physics Tournament   
+- 🦀 _Learning_: Rust  
+- 🐉 _Plans_: __**Monster Hunter Wilds.**__  
+- 🦭 _Interests_: Ethical scientific development, history, geography (impressive worldle streak), sociology, anthropology and anything else computers have to offer  
+<div align="middle">
+  <p>
+  ~~~
+  </p>
+</div>
 
-***
+*** 
+
+<div align="middle">
+  <img height=250 src="https://github.com/user-attachments/assets/976cb8c8-6d69-4526-b719-3e5fbd3c573a" />
+</div>
 
 <!--
 **dotEpoch/dotEpoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
