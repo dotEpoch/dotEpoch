@@ -11,12 +11,12 @@
 <p>  </p>
 
 - 🧲 _Currently working on_: International Physics Tournament   
-- 🦀 _Learning_: Rust  
+- 🦀 _Learning_: Rust, Ansys
 - 🐉 _Plans_: __**Monster Hunter Wilds.**__  
 - 🦭 _Interests_: Ethical scientific development, history, geography (impressive worldle streak), sociology, anthropology and anything else computers have to offer  
 <div align="middle">
   <p>
-  ~~~
+  !!!
   </p>
 </div>
 
